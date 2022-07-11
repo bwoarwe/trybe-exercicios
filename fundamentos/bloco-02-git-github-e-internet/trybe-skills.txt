@@ -6,3 +6,5 @@ O que eu vou aprender na Trybe:
 - CSS
 - HTML
 - Pedalar
+- Pescar com rede de arrasto
+
